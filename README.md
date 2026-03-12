@@ -8,6 +8,8 @@ Due to file size limits on GitHub, all firmware images, USB Burning Tool v3.2.0,
 
 [👉 Click Here for the Full Ugoos AM9 Pro Unbrick Guide & Firmware Downloads](https://techreviewguide.com/ugoos-am9-pro-firmware-update-s905x4-j-unbrick-guide/)
 
+Vido tutorial: https://www.youtube.com/watch?v=1rYHXtIbC1s
+
 Hardware Specs:
 SoC: Amlogic S905X5-J
 
